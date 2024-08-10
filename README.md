@@ -19,7 +19,3 @@ B) The Following views have been created in the Polls App:
  D) Through Admin.py, Django Default UI has been enabled and can be used to Feed New Questions and Choices
   
  E) Templates have been written in HTML for Landing Page, Polls HomePage, Detail Page, and Results Page
-  
-  
- F) ScreenShots of the Project :
- 
